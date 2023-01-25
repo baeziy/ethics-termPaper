@@ -28,11 +28,11 @@ The research for this paper was conducted by reviewing existing literature on th
 
 ##### Benefits:
 
-- **Increased Transparency:** Blockchain technology enables a secure, tamper-proof, and auditable voting system that ensures the integrity of the voting process. By leveraging the distributed and immutable nature of the blockchain, it is possible to ensure that every vote is accurately counted and stored in a secure and tamper-proof manner. This can help to prevent voter manipulation and fraud, and increase public confidence in the voting process.
+- **Increased Transparency:** Blockchain technology enables a secure, tamper-proof, and auditable voting system that ensures the integrity of the voting process. By leveraging the distributed and immutable nature of the blockchain, it is possible to ensure that every vote is accurately counted and stored in a secure and tamper-proof manner. This can help to prevent voter manipulation and fraud, and increase public confidence in the voting process. (Yli-Huumo et al., 2016).
 
 - **Increased Accessibility:** Blockchain technology can be used to create a decentralized voting system that allows voters to participate in the voting process from anywhere, at any time. This can help to reduce the cost of conducting large-scale elections and increase voter turnout by making it easier for people to participate.
 
-- **Improved Accuracy and Reliability:** By leveraging the distributed and immutable nature of the blockchain, it is possible to ensure that every vote is accurately counted and stored in a secure and tamper-proof manner. This can help to reduce the risk of fraud and voter manipulation.
+- **Improved Accuracy and Reliability:** By leveraging the distributed and immutable nature of the blockchain, it is possible to ensure that every vote is accurately counted and stored in a secure and tamper-proof manner. This can help to reduce the risk of fraud and voter manipulation. Böhme et al. (2015)
 
 - **Streamlined Process:** Blockchain technology can also streamline the voting process by automating the verification and counting of votes. This can help to make the voting process more efficient, reducing the overall time and cost associated with conducting large-scale elections.
 
@@ -40,15 +40,16 @@ The research for this paper was conducted by reviewing existing literature on th
 
 ##### Drawbacks:
 
-- **Cost:** One of the major drawbacks of using blockchain technology in online voting systems is the cost. Setting up and maintaining a secure, distributed online voting system can be expensive, and the technology is still relatively new and complex, making it difficult to implement.
+- **Cost:** One of the major drawbacks of using blockchain technology in online voting systems is the cost. Setting up and maintaining a secure, distributed online voting system can be expensive, and the technology is still relatively new and complex, making it difficult to implement. (Vale & Martin, 2018).
 
-- **Security:** Another potential drawback of using blockchain technology in online voting systems is security. While the blockchain is secure and tamper-proof, it is still vulnerable to hackers and other malicious actors who could potentially disrupt the voting process or manipulate the results.
+- **Security:** Another potential drawback of using blockchain technology in online voting systems is security. While the blockchain is secure and tamper-proof, it is still vulnerable to hackers and other malicious actors who could potentially disrupt the voting process or manipulate the results. However, it is a much better way as it provides much better security. _Kim and Ko (2018)_ further suggest that blockchain technology could be applied in voting systems, providing an alternative to traditional methods that is more secure and resistant to fraud. (Kim, D., & Ko, D. 2018).
 
-- **Scalability:** Another potential issue with using blockchain technology in online voting systems is scalability. As the number of votes cast increases, the size of the blockchain ledger also increases, making it more difficult to manage and process the data.
+- **Scalability:** Another potential issue with using blockchain technology in online voting systems is scalability. As the number of votes cast increases, the size of the blockchain ledger also increases, making it more difficult to manage and process the data. (Narayanan et al., 2016), (Swan, 2015)
 
 - **Accessibility:** While blockchain technology can help to increase voter turnout by allowing people to vote from anywhere, it can also exclude certain groups of people who do not have access to the necessary technology to participate in the voting process.
 
 - **Usability:** Finally, blockchain technology can also be difficult and complicated to use, which may discourage people from participating in the voting process. If not properly designed and implemented, blockchain-based voting systems can be confusing and difficult to use, making it difficult for people to cast their votes.
+- **Manipulation:** it can increase the risk of voter manipulation and fraud. This is due to the fact that it is possible to see who voted for whom and thus the autonomy and privacy is compromised (Bhuyan & Tatipamula, 2017). However, this can be solved by incorporating a private blockchain. (Grigg, 2018).
 
 > **Conclusion:**
 
@@ -65,3 +66,7 @@ Overall, it is clear that the use of blockchain technology in online voting syst
 - Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction. Princeton University Press.
 
 - Swan, M. (2015). Blockchain: Blueprint for a New Economy. O'Reilly Media, Inc.
+
+- Bhuyan, H., & Tatipamula, M. (2017). BlockChain: A secure voting system. International Journal of Computer Science & Information Technology, 9(3), 135-144.
+
+- Yli-Huumo, J., Ko, D., Choi, S., Park, S., & Smolander, K. (2016). Where is current research on blockchain technology? A systematic review. PLoS One, 11(10), e0163477.
